@@ -1,72 +1,21 @@
 name: Mirror Sync
 
-
-
-
-
-
-
-
 on:
   workflow_dispatch: 
   schedule:
     - cron: "0 * * * *"
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 permissions:
   contents: write
 
-
-
-
-
-
-
-
 jobs:
 
-
-
-
-
-
-
-
   build:
-
-
-
-
-
-
-
 
     runs-on: ubuntu-latest
     strategy:
       matrix:
         ruby-version: ['3.0']
-        
-
-
-
-
-
-
-
 
     steps:
     - uses: actions/checkout@v4
@@ -97,6 +46,7 @@ jobs:
         git add .
         git commit -m "Mirror Sync"
         git push
+      continue-on-error: true
       env:
         GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     
