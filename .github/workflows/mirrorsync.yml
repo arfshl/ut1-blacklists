@@ -41,10 +41,11 @@ jobs:
     - name: Download Blacklist
       run: |
         curl -O http://dsi.ut-capitole.fr/blacklists/download/blacklists.tar.gz
-    - name: Unpack
+    - name: Repacking
       run: |
         rm -r blacklists
         tar -xf blacklists.tar.gz
+        find blacklists -type f -size +99M -exec gzip -nf {} \;
     - name: Commit and push changes
       run: |
         git config user.name "github-actions[bot]"
