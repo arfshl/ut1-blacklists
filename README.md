@@ -2,7 +2,7 @@
 
 [![Mirror Sync](https://github.com/arfshl/ut1-blacklists/actions/workflows/mirrorsync.yml/badge.svg)](https://github.com/arfshl/ut1-blacklists/actions/workflows/mirrorsync.yml)
 
-This repository mirrors the blacklists of the [UT1](http://www.ut-capitole.fr) website, managed by [Fabrice Prigent](http://www.ut-capitole.fr/m-fabrice-prigent--15063.kjsp?RH=1319195296040). It is synchronized with the website once per day.
+This repository mirrors the blacklists of the [UT1](http://www.ut-capitole.fr) website, managed by [Fabrice Prigent](http://www.ut-capitole.fr/m-fabrice-prigent--15063.kjsp?RH=1319195296040). It is synchronized with the website once per hour.
 
 __Note__: this repository is only intended to mirror lists, to modify/update them please [contact](#see-also) the maintainer(s)
 
