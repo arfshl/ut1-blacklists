@@ -3,10 +3,22 @@ name: Mirror Sync
 
 
 
+
+
+
+
 on:
   workflow_dispatch: 
 #  schedule:
 #    - cron: "0 * * * *"
+
+
+
+
+
+
+
+
 
 
 
@@ -21,7 +33,15 @@ permissions:
 
 
 
+
+
+
+
 jobs:
+
+
+
+
 
 
 
@@ -31,11 +51,19 @@ jobs:
 
 
 
+
+
+
+
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        ruby-version: ['3.0']
+        ruby-version: ['2.7']
         
+
+
+
+
 
 
 
