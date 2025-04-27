@@ -43,7 +43,7 @@ jobs:
         curl -O http://dsi.ut-capitole.fr/blacklists/download/blacklists.tar.gz
     - name: Unpack
       run: |
-        rm -r blacklist
+        rm -r blacklists
         tar -xf blacklists.tar.gz
     - name: Commit and push changes
       run: |
