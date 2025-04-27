@@ -46,6 +46,7 @@ jobs:
         rm -r blacklists
         tar -xf blacklists.tar.gz
         find blacklists -type f -size +99M -exec gzip -nf {} \;
+        rm blacklists.tar.gz
     - name: Commit and push changes
       run: |
         git config user.name "github-actions[bot]"
