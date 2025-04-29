@@ -4,7 +4,7 @@
 
 This repository mirrors the blacklists of the [UT1](http://www.ut-capitole.fr) website, managed by [Fabrice Prigent](http://www.ut-capitole.fr/m-fabrice-prigent--15063.kjsp?RH=1319195296040). It is synchronized with the website once per day.
 
-__Note__: this repository is only intended to mirror lists, to modify/update them please [contact](#see-also) the maintainer(s)
+__Note__: this repository is only intended to mirror lists, to modify/update them please [contact](#see-also) the maintainer(s) or Submit your change suggestion [here](https://dsi.ut-capitole.fr/cgi-bin/squidguard_modify.cgi)
 
 __Important__: due to [a GitHub restriction](https://docs.github.com/en/repositories/working-with-files/managing-large-files/about-large-files-on-github#file-size-limits) on file sizes, files that are bigger than 100MB are gzip-compressed
 
