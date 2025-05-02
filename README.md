@@ -46,7 +46,7 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 | [jobsearch](blacklists/jobsearch) | 422 | Site to looking for job |
 | [lingerie](blacklists/lingerie) | 138 | Sites for lingerie |
 | [liste_bu](blacklists/liste_bu) | 2904 | A french list for educational sites. VERY locally oriented. may help libraries |
-| [malware](blacklists/malware) | 199479 | Any website which deliver malware |
+| [malware](blacklists/malware) | 199548 | Any website which deliver malware |
 | [manga](blacklists/manga) | 838 | Any website related to manga, and cartoons |
 | [marketingware](blacklists/marketingware) | 75 | Very special marketing sites |
 | [mixed_adult](blacklists/mixed_adult) | 157 | Websites which contains adult sections unstructured |
@@ -58,7 +58,7 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 | [reaffected](blacklists/reaffected) | 8 | Websites which have been reaffected |
 | [redirector](blacklists/redirector) | 132367 | Some redirector sites, which are used to circumvent filtering |
 | [remote-control](blacklists/remote-control) | 67 | site which allow remote control of user s dekstop |
-| [residential_proxies](blacklists/residential_proxies) | 68 | Site which provides residential_proxies |
+| [residential_proxies](blacklists/residential_proxies) |  | Site which provides residential_proxies |
 | [sect](blacklists/sect) | 145 | Sect |
 | [sexual_education](blacklists/sexual_education) | 20 | Website which talk about sexual education, and can be misdetected as porn |
 | [shopping](blacklists/shopping) | 36897 | Any shopping, selling center |
