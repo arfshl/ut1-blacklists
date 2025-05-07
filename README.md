@@ -11,7 +11,7 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 ## Lists
 | Name | Size | Description |
 |:-----|:-----|:------------|
-| [adult](blacklists/adult) | 4646169 | Some adult site from erotic to hard pornography |
+| [adult](blacklists/adult) | 4646187 | Some adult site from erotic to hard pornography |
 | [agressif](blacklists/agressif) | 394 | Some aggressive sites |
 | [arjel](blacklists/arjel) | 69 | ARJEL which is a french certification authority for gambling sites |
 | [associations_religieuses](blacklists/associations_religieuses) | 1 | religious_association |
@@ -40,13 +40,13 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 | [filehosting](blacklists/filehosting) | 941 | Websites which host files (pictures, video, ...) |
 | [financial](blacklists/financial) | 473 | Sites relative financial information |
 | [forums](blacklists/forums) | 225 | Forums site |
-| [gambling](blacklists/gambling) | 31796 | Gambling and games sites, casino, etc |
+| [gambling](blacklists/gambling) | 31805 | Gambling and games sites, casino, etc |
 | [games](blacklists/games) | 35287 | games sites (flash and online games ) |
 | [hacking](blacklists/hacking) | 304 | Hacking sites |
 | [jobsearch](blacklists/jobsearch) | 422 | Site to looking for job |
 | [lingerie](blacklists/lingerie) | 138 | Sites for lingerie |
 | [liste_bu](blacklists/liste_bu) | 2904 | A french list for educational sites. VERY locally oriented. may help libraries |
-| [malware](blacklists/malware) | 200411 | Any website which deliver malware |
+| [malware](blacklists/malware) | 200643 | Any website which deliver malware |
 | [manga](blacklists/manga) | 838 | Any website related to manga, and cartoons |
 | [marketingware](blacklists/marketingware) | 76 | Very special marketing sites |
 | [mixed_adult](blacklists/mixed_adult) | 157 | Websites which contains adult sections unstructured |
@@ -58,7 +58,7 @@ __Important__: due to [a GitHub restriction](https://docs.github.com/en/reposito
 | [reaffected](blacklists/reaffected) | 8 | Websites which have been reaffected |
 | [redirector](blacklists/redirector) | 132367 | Some redirector sites, which are used to circumvent filtering |
 | [remote-control](blacklists/remote-control) | 67 | site which allow remote control of user s dekstop |
-| [residential_proxies](blacklists/residential_proxies) | 68 | Site which provides residential_proxies |
+| [residential_proxies](blacklists/residential_proxies) |  | Site which provides residential_proxies |
 | [sect](blacklists/sect) | 145 | Sect |
 | [sexual_education](blacklists/sexual_education) | 20 | Website which talk about sexual education, and can be misdetected as porn |
 | [shopping](blacklists/shopping) | 36898 | Any shopping, selling center |
